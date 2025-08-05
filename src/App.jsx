@@ -345,7 +345,7 @@ function App() {
                       size="sm"
                     >
                       <Download className="w-4 h-4 mr-2" />
-                      تحميل
+                      Download
                     </Button>
                   </div>
                 ))}
