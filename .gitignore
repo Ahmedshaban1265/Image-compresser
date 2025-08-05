@@ -1,0 +1,68 @@
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+/build/
+/out/
+
+# Vite cache
+/.vite/
+/.vite
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Env files
+.env
+.env.*.local
+.env.local
+.env.test
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+coverage-final.json
+
+# Testing
+/jest.config.ts
+/jest.config.js
+/__tests__/
+
+# Caches & temp
+/.cache/
+/.cache-loader/
+/tmp/
+/temp/
+
+# Parcel, Next, Nuxt, Gatsby, etc caches (if any)
+.cache/
+.next/
+.nuxt/
+.public/
+
+# ESLint cache
+.eslintcache
+
+# pnpm store (global store is usually outside project; ignore if present)
+.pnpm-store/
+
+# Misc
+*.tgz
+*.zip
